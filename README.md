@@ -1,2 +1,2 @@
 # Calculator-
-To calculate 
+To calculate arithmetic 
